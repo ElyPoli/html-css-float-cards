@@ -3,3 +3,20 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: #e53170;
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.centered {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+}
