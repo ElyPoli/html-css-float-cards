@@ -38,14 +38,19 @@ h1 {
     padding-bottom: 60px;
 }
 
+.margin-r {
+    margin-right: 30px;
+}
+
+.margin-b {
+    margin-bottom: 50px;
+}
+
 /* Card */
 .card {
     background-color: #0f0e17;
-    height: 100px;
-    width: calc(100%/3 - 30px);
+    width: calc(100%/3 - 20px);
     float: left;
-    margin-bottom: 50px;
-    margin-right: 30px;
     /* Shadow */
     -webkit-box-shadow: 0px 0px 10px 5px #bbbbbb;
     -moz-box-shadow: 0px 0px 10px 5px #bbbbbb;
